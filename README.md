@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohd Abid 
+### 👋 Hi, I’m Mohd Abid 
 - 👀 I’m interested in Web development 
 - 🌱 I completed my graduation in Computer Science from J.s University Shikohabad Firozabad 
 - 💞️ I have 2 Years of experience creating custom website designs from scratch and integrating third-party tools and APIs. My knowledge of front-end development and design principles allows me to create web applications that are not only visually appealing but also provide an exceptional user experience. 
