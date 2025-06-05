@@ -9,7 +9,8 @@ I'm a passionate **Software Developer** with over **3 years of professional expe
 ### 🖥️ Frontend:
 - HTML, CSS, JavaScript  
 - Angular, jQuery, AJAX  
-- Bootstrap  
+- Bootstrap
+- Angular v 16+
 
 ### 🛠️ Backend:
 - ASP.NET Core, ASP.NET Web Forms  
